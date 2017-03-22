@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ktds/admin/common/web/DownloadUtil.java=UTF-8
+encoding//src/main/java/com/ktds/admin/common/web/MultipartHttpServletRequest.java=UTF-8
+encoding//src/main/java/com/ktds/admin/common/web/pager/ClassicPageExplorer.java=UTF-8
+encoding//src/main/java/com/ktds/admin/common/web/pager/ListPageExplorer.java=UTF-8
+encoding//src/main/java/com/ktds/admin/common/web/pager/PageExplorer.java=UTF-8
+encoding//src/main/java/com/ktds/admin/common/web/pager/Pager.java=UTF-8
+encoding//src/main/java/com/ktds/admin/common/web/pager/Test.java=UTF-8
